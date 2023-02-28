@@ -12,6 +12,9 @@ Pyromid For Cracking and Hunting Any Wallet Bitcoin From Mnemonic's Method on Pr
 
 
 running with this details : File name for rich Address List :`richFile_Address.txt` and save Found (Match) Address Detail's Saved in `Found.txt`:
+
+if needed rich address list for bitcoin : [Can Use This File](https://github.com/Pymmdrza/Rich-Address-Wallet/releases/tag/BTC.RiCH.2023)
+
 ```
 # Windows :
 python pyromid.py -r richFile_Address.txt -o Found.txt
