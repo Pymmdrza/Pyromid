@@ -19,6 +19,32 @@
 
 ![Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic](https://raw.githubusercontent.com/Pymmdrza/Pyromid/mainx/media/Pyromid_screen.png 'Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic')
 
+### Installing Package's:
+
+
+Installing With PiP in Windows (Commands):
+
+```
+
+python -m pip install bit
+python -m pip install rich
+python -m pip install bip32utils
+python -m pip install base58
+python -m pip install base64
+
+```
+
+Installing With Pip3 in Linux (ubuntu 20.04):
+
+```
+sudo apt-get update&&sudo apt-get upgrade -y
+pip3 install bit rich
+pip3 install rich
+pip3 install bip32utils base58 base64
+```
+
+----
+
 ## Pyromid For Hack and Cracking Private Key and Address Bitcoin Wallet From Mnemonic [Words - Passphrase]
 
 
