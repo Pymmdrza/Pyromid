@@ -22,7 +22,7 @@
 ### Installing Package's:
 
 
-Installing With PiP in Windows (Commands):
+Installing With `pip` in Windows (Commands):
 
 ```
 
@@ -34,7 +34,7 @@ python -m pip install base64
 
 ```
 
-Installing With Pip3 in Linux (ubuntu 20.04):
+Installing With `pip3` in Linux `(ubuntu 20.04)`:
 
 ```
 sudo apt-get update&&sudo apt-get upgrade -y
