@@ -1,4 +1,21 @@
 # Pyromid
+---
+
+### Pyromid V3 [New Version]
+
+✔️ Screen From Pyromid V3 [Coming Soon].
+
+![](https://raw.githubusercontent.com/Pymmdrza/Pyromid/mainx/media/Pyromid__3.png)
+
+---
+
+⚠️ I am preparing and finalizing this `(Pyromid version 3)` and you can get it here soon, if you are one of those friends who have just come to my page, I must announce that until version 3 of this script is ready and finalized, you can Use [Pyromid version 2](https://github.com/Pymmdrza/Pyromid/blob/mainx/Pyromid_V2.py 'Pyromid v2 for cracking and Hunting High speed private key bitcoin wallet') which is ready and published by me.
+
+### ↪️ [Pyromid_V2.py](https://github.com/Pymmdrza/Pyromid/blob/mainx/Pyromid_V2.py 'Pyromid v2 for cracking and Hunting High speed private key bitcoin wallet')
+
+
+---
+
 
 ![Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic](https://raw.githubusercontent.com/Pymmdrza/Pyromid/mainx/media/Pyromid_screen.png 'Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic')
 
