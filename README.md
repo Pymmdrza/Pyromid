@@ -30,7 +30,6 @@ python -m pip install bit
 python -m pip install rich
 python -m pip install bip32utils
 python -m pip install base58
-python -m pip install base64
 
 ```
 
@@ -40,7 +39,7 @@ Installing With `pip3` in Linux `(ubuntu 20.04)`:
 sudo apt-get update&&sudo apt-get upgrade -y
 pip3 install bit rich
 pip3 install rich
-pip3 install bip32utils base58 base64
+pip3 install bip32utils base58
 ```
 
 ----
