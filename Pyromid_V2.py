@@ -30,7 +30,7 @@ def _LoadTargetFile(FileName):
 
 def MainCheck():
     global z, wf
-    target_file = 'Rich.txt'
+    target_file = 'richAddr.txt'
     Target = _LoadTargetFile(FileName=target_file)
     z = 0
     wf = 0
