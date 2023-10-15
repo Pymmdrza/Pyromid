@@ -14,33 +14,41 @@
 ### ↪️ [Pyromid_V2.py](https://github.com/Pymmdrza/Pyromid/blob/mainx/Pyromid_V2.py 'Pyromid v2 for cracking and Hunting High speed private key bitcoin wallet')
 
 
+![Pyromid v2 new updated](https://raw.githubusercontent.com/Pymmdrza/Pyromid/media/media/pyromid2.gif 'Pyromid v2 New update')
+
+
+### Dowbload Pyromid V2 `update`
+
+[Pyromid V2](https://github.com/Pymmdrza/Pyromid/blob/mainx/Pyromid_V2.py 'Pyromid v2 for cracking and Hunting High speed private key bitcoin wallet') `updated`
+
+
+
+### install & use Pyromid v2:
+
+#### windows with `pip`:
+```bash
+pip install cryptofuzz
+pip install colorthon
+```
+#### Linux & Mac with `pip3`:
+
+
+```bash
+sudo apt-get update&&sudo apt-get upgrade -y
+pip3 install cryptofuzz
+pip3 install colorthon
+```
+
+
+running Online On Replit : [Run Now](https://replit.com/@MrPyMmdrza/Pyromid-v2)
+
+
+
 ---
 
 
 ![Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic](https://raw.githubusercontent.com/Pymmdrza/Pyromid/mainx/media/Pyromid_screen.png 'Pyromid For Hacking and Cracking Private Key and Address Bitcoin from Mnemonic')
 
-### Installing Package's:
-
-
-Installing With `pip` in Windows (Commands):
-
-```
-
-python -m pip install bit
-python -m pip install rich
-python -m pip install bip32utils
-python -m pip install base58
-
-```
-
-Installing With `pip3` in Linux `(ubuntu 20.04)`:
-
-```
-sudo apt-get update&&sudo apt-get upgrade -y
-pip3 install bit rich
-pip3 install rich
-pip3 install bip32utils base58
-```
 
 ----
 
