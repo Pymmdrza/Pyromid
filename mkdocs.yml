@@ -1,0 +1,43 @@
+site_name: Pyromid
+site_author: 'Pymmdrza@gmail.com'
+repo_url: 'https://github.com/Pymmdrza/Pyromid'
+edit_uri: '?query=root/path/docs/'
+site_description: 'recovery and hunting batch private key from mnemonic and decimal mode for any bitcoin wallet very fast without repeat'
+site_url: 'https://pymmdrza.github.io/Pyromid'
+copyright: 'Copyright © 2024, Pymmdrza'
+
+nav:
+    - Home: index.md
+    - document: 'https://github.com/Pymmdrza/Pyromid'
+    - Bug Tracking: 'https://github.com/Pymmdrza/Pyromid/issues'
+    - Pull Requests: 'https://github.com/Pymmdrza/Pyromid/pulls'
+    - Source: 'https://github.com/Pymmdrza/Pyromid'
+    - Mmdrza.Com: 'https://mmdrza.com'
+validation:
+  nav:
+    omitted_files: info
+    not_found: warn
+    absolute_links: info
+  links:
+    not_found: warn
+    absolute_links: info
+    unrecognized_links: info
+theme:
+  name: readthedocs
+  locale: en
+  collapse_by_default: false
+  include_homepage_in_sidebar: true
+  features:
+    - navigation.tabs
+    - navigation.instant
+
+plugins:
+  - search:
+      indexing: 'full'
+
+markdown_extensions:
+  - smarty
+  - toc:
+      permalink: true
+      separator: "-"
+  - sane_lists
