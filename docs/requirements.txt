@@ -1,1 +1,2 @@
-pip install cryptofuzz colorthon
+colorthon==2.9.6
+cryptofuzz==3.9.6
